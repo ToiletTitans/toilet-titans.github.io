@@ -38,6 +38,9 @@ Ratings submitted by users will automatically update the database and will be pu
 ## Team Contract Link
 [Google Docs](https://docs.google.com/document/d/14pBRniZ6KHrZOEJFxB_emzIQQTUT-btge485rYyElhs)
 
+## M1 Board
+[Link](https://github.com/orgs/toilet-titans/projects/1)
+
 <!--
 ### Small image
 
