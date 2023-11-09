@@ -1,4 +1,4 @@
-<img width="274" alt="rating" src="https://github.com/toilet-titans/toilet-titans.github.io/assets/119463860/627534e7-2fb5-4adf-b490-ef229daa45f2">---
+---
 layout: default
 ---
 
