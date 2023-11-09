@@ -34,7 +34,7 @@ Ratings submitted by users will automatically update the database and will be pu
 ## Team Contract Link
 [Google Docs](https://docs.google.com/document/d/14pBRniZ6KHrZOEJFxB_emzIQQTUT-btge485rYyElhs)
 
-
+<!--
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
@@ -42,3 +42,4 @@ Ratings submitted by users will automatically update the database and will be pu
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+-->
