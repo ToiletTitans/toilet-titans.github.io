@@ -1,5 +1,3 @@
-theme: minima
-
 <small>
 Authors:
 Jianele Liu, Marques Batoon, Reyn Seki, Ryder Shintaku
