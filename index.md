@@ -28,18 +28,12 @@ After registering and signing in, users are able to gain access to the following
   <img src="/assets/img/rating.png" style="border: 2px solid  gray;">
 - **Search Function**:Bathrooms will be separated by gender and users are able to upload and find gender neutral bathrooms. Users will also be able to find all bathrooms that offer female products.
 
-
-## Use case ideas
-It will be necessary to create a database for users and bathroom facilities. Bathrooms will be organized from building to floor and by gender. 
-
-## Beyond the basics
-Ratings submitted by users will automatically update the database and will be published on the site. Time permitting we'd also like to implement an algorithm to find nearest bathrooms to the user based on location and add a schedule feature to each profile
+## Milestones
+- [M1](https://github.com/orgs/toilet-titans/projects/1)
 
 ## Team Contract Link
 [Google Docs](https://docs.google.com/document/d/14pBRniZ6KHrZOEJFxB_emzIQQTUT-btge485rYyElhs)
 
-## Milestones
-[M1](https://github.com/orgs/toilet-titans/projects/1)
 
 <!--
 ### Small image
