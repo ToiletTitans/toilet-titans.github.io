@@ -1,1 +1,1 @@
-[Documentation](toilet-titans.github.io/)
+[Documentation](https://toilet-titans.github.io/)
