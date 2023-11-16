@@ -35,6 +35,9 @@ After registering and signing in, users are able to gain access to the following
 ## Team Contract Link
 [Google Docs](https://docs.google.com/document/d/14pBRniZ6KHrZOEJFxB_emzIQQTUT-btge485rYyElhs)
 
+## Deployed Site
+[Link](http://64.225.0.50/)
+
 
 <!--
 ### Small image
