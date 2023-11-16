@@ -20,11 +20,11 @@ The app will also allow students to rate a bathroom's cleanliness level and incl
 After registering and signing in, users are able to gain access to the following content:
 - **[Homepage](http://64.225.0.50/)**: A random bathroom of the day will be featured based on user ratings.
   <img src="/assets/img/homepage_2.png" style="border: 2px solid  gray;">
-- **Profile**: Each user will have their own profile page which will show their bathroom reviews.
+- **[Profile](http://64.225.0.50/profile)**: Each user will have their own profile page which will show their bathroom reviews.
   <img src="/assets/img/profile_2.png" style="border: 2px solid  gray;">
-- **Bathroom Directory**: A user can find the highest rating bathrooms near their location by choosing a UH Manoa buildling within the directory. Time pending, we will implement an algorithm to find the nearest bathrooms to a user based on their location. Bathroom directories will be organized by building and floor number. If a building or bathroom is not on the directory, users are able to add their own to the database with a submission form which automatically updates database.
+- **[Bathroom Directory](http://64.225.0.50/directory)**: A user can find the highest rating bathrooms near their location by choosing a UH Manoa buildling within the directory. Time pending, we will implement an algorithm to find the nearest bathrooms to a user based on their location. Bathroom directories will be organized by building and floor number. If a building or bathroom is not on the directory, users are able to add their own to the database with a submission form which automatically updates database.
   <img src="/assets/img/directory.png" style="border: 2px solid  gray;">
-- **Rating Page**: Each bathroom will have a page which shows all ratings and reviews by other students. On this page a user can rate a bathroom and input their own reviews which will automatically be added to the rating page.
+- **[Rating Page](http://64.225.0.50/rating)**: Each bathroom will have a page which shows all ratings and reviews by other students. On this page a user can rate a bathroom and input their own reviews which will automatically be added to the rating page.
   <img src="/assets/img/rating_2.png" style="border: 2px solid  gray;">
 - **Search Function**:Bathrooms will be separated by gender and users are able to upload and find gender neutral bathrooms. Users will also be able to find all bathrooms that offer female products.
 
