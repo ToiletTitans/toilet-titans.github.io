@@ -27,6 +27,8 @@ After registering and signing in, users are able to gain access to the following
 - **[Rating Page](http://64.225.0.50/rating)**: Each bathroom will have a page which shows all ratings and reviews by other students. On this page a user can rate a bathroom and input their own reviews which will automatically be added to the rating page.
   <img src="/assets/img/rating_2.png" style="border: 2px solid  gray;">
 - **[Admin Page](http://64.225.0.50/admin)**:Admins will be able to see a list of Users and their reviews.
+  <img src="/assets/img/admin_page.png" style="border: 2px solid  gray;">
+  
 
 ## Milestones
 - [M1](https://github.com/orgs/toilet-titans/projects/1) Site Design Draft
