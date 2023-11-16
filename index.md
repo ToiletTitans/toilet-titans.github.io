@@ -26,11 +26,11 @@ After registering and signing in, users are able to gain access to the following
   <img src="/assets/img/directory.png" style="border: 2px solid  gray;">
 - **[Rating Page](http://64.225.0.50/rating)**: Each bathroom will have a page which shows all ratings and reviews by other students. On this page a user can rate a bathroom and input their own reviews which will automatically be added to the rating page.
   <img src="/assets/img/rating_2.png" style="border: 2px solid  gray;">
-- **Search Function**:Bathrooms will be separated by gender and users are able to upload and find gender neutral bathrooms. Users will also be able to find all bathrooms that offer female products.
+- **[Admin Page](http://64.225.0.50/admin)**:Admins will be able to see a list of Users and their reviews.
 
 ## Milestones
-- [M1](https://github.com/orgs/toilet-titans/projects/1)
-- [M2](https://github.com/orgs/toilet-titans/projects/2)
+- [M1](https://github.com/orgs/toilet-titans/projects/1) Site Design Draft
+- [M2](https://github.com/orgs/toilet-titans/projects/2) Initialize Database and connect site to default bathroom database
 
 ## Deployed Site
 [Link](http://64.225.0.50/)
