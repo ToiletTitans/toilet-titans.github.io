@@ -18,7 +18,7 @@ The app will also allow students to rate a bathroom's cleanliness level and incl
 ## Mockup page ideas
 
 After registering and signing in, users are able to gain access to the following content:
-- **Homepage**: A random bathroom of the day will be featured based on user ratings.
+- **[Homepage](http://64.225.0.50/)**: A random bathroom of the day will be featured based on user ratings.
   <img src="/assets/img/homepage_2.png" style="border: 2px solid  gray;">
 - **Profile**: Each user will have their own profile page which will show their bathroom reviews.
   <img src="/assets/img/profile_2.png" style="border: 2px solid  gray;">
