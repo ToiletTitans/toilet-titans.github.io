@@ -31,8 +31,8 @@ After registering and signing in, users are able to gain access to the following
   
 
 ## Milestones
-- [M1](https://github.com/orgs/toilet-titans/projects/1) Site Design Draft
-- [M2](https://github.com/orgs/toilet-titans/projects/2) Initialize Database and connect site to default bathroom database
+- [M1]:(https://github.com/orgs/toilet-titans/projects/1) Site Design Draft
+- [M2]:(https://github.com/orgs/toilet-titans/projects/2) Initialize Database and connect site to default bathroom database
 
 ## Deployed Site
 [Link](http://64.225.0.50/)
