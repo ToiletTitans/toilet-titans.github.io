@@ -32,11 +32,11 @@ After registering and signing in, users are able to gain access to the following
 - [M1](https://github.com/orgs/toilet-titans/projects/1)
 - [M2](https://github.com/orgs/toilet-titans/projects/2)
 
-## Team Contract Link
-[Google Docs](https://docs.google.com/document/d/14pBRniZ6KHrZOEJFxB_emzIQQTUT-btge485rYyElhs)
-
 ## Deployed Site
 [Link](http://64.225.0.50/)
+
+## Team Contract Link
+[Google Docs](https://docs.google.com/document/d/14pBRniZ6KHrZOEJFxB_emzIQQTUT-btge485rYyElhs)
 
 
 <!--
