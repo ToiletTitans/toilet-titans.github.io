@@ -26,14 +26,14 @@ After registering and signing in, users are able to gain access to the following
   <img src="/assets/img/directory.png" style="border: 2px solid  gray;">
 - **[Rating Page](https://manoa-bathroom-finder.site/rating)**: Each bathroom will have a page which shows all ratings and reviews by other students. On this page a user can rate a bathroom and input their own reviews which will automatically be added to the rating page.
   <img src="/assets/img/rating_2.png" style="border: 2px solid  gray;">
-- **[Admin Page](http://64.225.0.50/admin)**:Admins will be able to see a list of Users and their reviews.
-  <img src="/assets/img/admin_page.png" style="border: 2px solid  gray;">
+- **[Add Bathroom Page](https://manoa-bathroom-finder.site/add-bathroom)**:A seperate way to add a bathroom if the user does not want to use the profile table.
+  <img src="assets/img/addBathroomR.png" style="border: 2px solid  gray;">
   
 
 ## Milestones
-- [M1]:(https://github.com/orgs/toilet-titans/projects/1) Site Design Draft
-- [M2]:(https://github.com/orgs/toilet-titans/projects/2) Initialize Database and connect site to default bathroom database
-- [M3]:(https://github.com/orgs/toilet-titans/projects/3) Make the site complete, improve QOL.
+- [M1](https://github.com/orgs/toilet-titans/projects/1) Site Design Draft
+- [M2](https://github.com/orgs/toilet-titans/projects/2) Initialize Database and connect site to default bathroom database
+- [M3](https://github.com/orgs/toilet-titans/projects/3) Make the site complete, improve QOL.
 
 ## Deployed Site
 [Link](http://64.225.0.50/)
