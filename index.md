@@ -18,13 +18,13 @@ The app will also allow students to rate a bathroom's cleanliness level and incl
 ## Mockup page ideas
 
 After registering and signing in, users are able to gain access to the following content:
-- **[Homepage](http://64.225.0.50/)**: A random bathroom of the day will be featured based on user ratings.
+- **[Homepage](https://manoa-bathroom-finder.site/)**: A random bathroom of the day will be featured based on user ratings.
   <img src="/assets/img/homepage_2.png" style="border: 2px solid  gray;">
-- **[Profile](http://64.225.0.50/profile)**: Each user will have their own profile page which will show their bathroom reviews.
+- **[Profile](https://manoa-bathroom-finder.site/profile)**: Each user will have their own profile page which will show their bathroom reviews.
   <img src="/assets/img/profile_2.png" style="border: 2px solid  gray;">
-- **[Bathroom Directory](http://64.225.0.50/directory)**: A user can find the highest rating bathrooms near their location by choosing a UH Manoa buildling within the directory. Time pending, we will implement an algorithm to find the nearest bathrooms to a user based on their location. Bathroom directories will be organized by building and floor number. If a building or bathroom is not on the directory, users are able to add their own to the database with a submission form which automatically updates database.
+- **[Bathroom Directory](https://manoa-bathroom-finder.site/directory)**: A user can find the highest rating bathrooms near their location by choosing a UH Manoa buildling within the directory. Time pending, we will implement an algorithm to find the nearest bathrooms to a user based on their location. Bathroom directories will be organized by building and floor number. If a building or bathroom is not on the directory, users are able to add their own to the database with a submission form which automatically updates database.
   <img src="/assets/img/directory.png" style="border: 2px solid  gray;">
-- **[Rating Page](http://64.225.0.50/rating)**: Each bathroom will have a page which shows all ratings and reviews by other students. On this page a user can rate a bathroom and input their own reviews which will automatically be added to the rating page.
+- **[Rating Page](https://manoa-bathroom-finder.site/rating)**: Each bathroom will have a page which shows all ratings and reviews by other students. On this page a user can rate a bathroom and input their own reviews which will automatically be added to the rating page.
   <img src="/assets/img/rating_2.png" style="border: 2px solid  gray;">
 - **[Admin Page](http://64.225.0.50/admin)**:Admins will be able to see a list of Users and their reviews.
   <img src="/assets/img/admin_page.png" style="border: 2px solid  gray;">
@@ -33,6 +33,7 @@ After registering and signing in, users are able to gain access to the following
 ## Milestones
 - [M1]:(https://github.com/orgs/toilet-titans/projects/1) Site Design Draft
 - [M2]:(https://github.com/orgs/toilet-titans/projects/2) Initialize Database and connect site to default bathroom database
+- [M3]:(https://github.com/orgs/toilet-titans/projects/3) Make the site complete, improve QOL.
 
 ## Deployed Site
 [Link](http://64.225.0.50/)
