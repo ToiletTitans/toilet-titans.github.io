@@ -15,7 +15,7 @@ Finding a toilet on campus that has a good clean to closeness ratio is always a 
 The app will also allow students to rate a bathroom's cleanliness level and include things that others can be weary of. For example, the quality of soap in the bathroom, number of stalls, business at times of days, availability of female products, or if there are areas designated for users to place their belongings while using the premises.
 
 
-## Mockup page ideas
+## User Guide
 
 After registering and signing in, users are able to gain access to the following content:
 - **[Homepage](https://manoa-bathroom-finder.site/)**: A random bathroom of the day will be featured based on user ratings.
@@ -29,6 +29,35 @@ After registering and signing in, users are able to gain access to the following
 - **[Add Bathroom Page](https://manoa-bathroom-finder.site/add-bathroom)**:A seperate way to add a bathroom if the user does not want to use the profile table.
   <img src="assets/img/addBathroomR.png" style="border: 2px solid  gray;">
   
+## Community Feedback
+Generally, people were not impressed with the website. But they did like the tables in the profile page and the Add Bathroom page. Some areas of improvement included the directory looking nicer, the home page being more professional and the directory being more organized.
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the [Toilet-Titans application github page](https://github.com/toilet-titans/ToiletFinder), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the ToiletFinder/app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+### Application Design
+
+ToiletFinder is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Bowfolios.
+
+## Test Cafe
+![ci-badge](https://github.com/toilet-titans/ToiletFinder/workflows/ToiletFinder/badge.svg)
 
 ## Milestones
 - [M1](https://github.com/orgs/toilet-titans/projects/1) Site Design Draft
